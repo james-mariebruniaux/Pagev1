@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --font-size-mini: 15px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-cornflowerblue: #3e75d0;
+
+  /* Border radiuses */
+  --br-7xs: 6px;
+}
